@@ -1,0 +1,19 @@
+.wholeBody{
+	background-color: #f4f4f4;
+	color: green;
+	font-family: Helvetica Neue;
+	font-weight: weight;
+	line-height: 2em;
+	margin: 0px;
+}
+
+.intro {
+	background-color: black;
+	margin: 0;
+	padding: 10px;
+}
+
+
+/*h1{
+	color: green
+}*/
